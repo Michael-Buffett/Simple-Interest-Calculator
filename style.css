@@ -1,3 +1,19 @@
+
+body 
+    {
+    background-color:Black; 
+    color:white; 
+    font:arial;
+    }
+
+h1
+    {
+    color:grey; 
+    font:verdana;
+    text-align: center;
+    font-size:25px;
+    }
+
 .maindiv 
     { 
     text-indent: 10px;
